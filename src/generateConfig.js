@@ -95,7 +95,7 @@ export const generateConfig = {
     },
     getShortMonths: (locale) => {
       const date = moment().locale(locale);
-      return date.localeData().monthsShort();
+      return date.localeData()._jMonths;
     },
     format: (locale, date, format) => {
       format = toJalaaliFormat(format);

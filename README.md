@@ -16,6 +16,10 @@ moment.loadPersian({ dialect: "persian-modern" });
 
 ```
 
+## Note
+
+* Values should be `moment-jalaali` objects.
+* `antd` and `moment-jalaali` are peer dependencies.
 
 ## Pull Requests
 
