@@ -1,6 +1,6 @@
 {
   "name": "antd-moment-jalaali-picker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Jalaali datepicker for Ant Design using moment-jalaali",
   "main": "src/index.js",
   "scripts": {
