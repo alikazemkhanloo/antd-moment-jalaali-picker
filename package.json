@@ -1,0 +1,22 @@
+{
+  "name": "antd-moment-jalaali-picker",
+  "version": "1.0.0",
+  "description": "A Jalaali datepicker for Ant Design using moment-jalaali",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antd",
+    "ant",
+    "design",
+    "jalaali",
+    "moment"
+  ],
+  "author": "Ali Kazemkhanloo",
+  "license": "MIT",
+  "peerDependencies": {
+    "moment-jalaali": "*",
+    "antd": ">=5"
+  }
+}
