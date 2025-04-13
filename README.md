@@ -1,6 +1,18 @@
 # Moment Jalaali Picker
 A wrapper for Ant Design's Datepicker to support for persian calendar using `moment-jalaali`.
 
+## Install
+
+```bash
+yarn add antd-moment-jalaali-picker
+
+```
+or 
+```bash
+npm i antd-moment-jalaali-picker
+```
+
+
 ## Example
 
 ```js
