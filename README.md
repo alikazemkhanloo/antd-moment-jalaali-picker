@@ -24,3 +24,8 @@ moment.loadPersian({ dialect: "persian-modern" }); // load persian dialect
 ## Pull Requests
 
 Are welcome.
+
+## Credits
+
+* [rc-picker](https://github.com/react-component/picker)
+* [ant design](ant.design)
