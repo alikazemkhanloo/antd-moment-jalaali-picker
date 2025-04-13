@@ -15,6 +15,10 @@
   ],
   "author": "Ali Kazemkhanloo",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alikazemkhanloo/antd-moment-jalaali-picker.git"
+  },
   "peerDependencies": {
     "moment-jalaali": "*",
     "antd": ">=5"
