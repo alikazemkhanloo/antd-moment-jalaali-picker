@@ -7,7 +7,7 @@ A wrapper for Ant Design's Datepicker to support for persian calendar using `mom
 import { MomentJalaaliPicker } from 'antd-moment-jalaali-picker';
 import moment from "moment-jalaali";
 
-moment.loadPersian({ dialect: "persian-modern" });
+moment.loadPersian({ dialect: "persian-modern" }); // load persian dialect
 
 ...
 
