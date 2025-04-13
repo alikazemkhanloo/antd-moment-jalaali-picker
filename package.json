@@ -1,6 +1,6 @@
 {
   "name": "antd-moment-jalaali-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Jalaali datepicker for Ant Design using moment-jalaali",
   "main": "src/index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "url": "https://github.com/alikazemkhanloo/antd-moment-jalaali-picker.git"
   },
   "peerDependencies": {
-    "moment-jalaali": "*",
-    "antd": ">=5"
+    "antd": ">=5",
+    "moment-jalaali": "*"
   }
 }
