@@ -11,6 +11,8 @@ or
 ```bash
 npm i antd-moment-jalaali-picker
 ```
+### Ant Design 4
+For Ant Design v4 use version `4.x.x`
 
 
 ## Example
